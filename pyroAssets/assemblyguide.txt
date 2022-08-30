@@ -1,0 +1,35 @@
+1- The background of the page will use background_desktop.png. If the window is resized, all the buttons and items remain scaled properly in relation to eachother.
+
+For mobile view, if possible, the margins will be cut off to the dotted line. If not, use background_mobileoption.png for the mobile view's background.
+
+2- Place leftmonitor.gif over the black oval on the ovular monitor.
+
+3- Place acc_dark.png over the black "account" button spot. When moused over, replace with acc_lit.png: this links to site account information.
+
+4- Place cart_dark.png over the black "cart" button spot. When moused over, replace with cart_lit.png: this links to the user's cart.
+
+5- Place home_dark.png over the black "home" button spot. When moused over, replace with home_lit.png, and monitorMain.gif (see 13) with monitorHome.gif: this button links back to the homepage of the site.
+
+6- Place FAQ_dark.png over the black "FAQ" button spot. When moused over, replace with FAQ_lit.png, and monitorMain.gif (see 13) with monitorFAQ.gif: this button links to a Frequently Asked Questions page.
+
+7- Place about_dark.png over the black "about" button spot. When moused over, replace with about_lit.png, and monitorMain.gif (see 13) with monitorAbout.gif: this button links to an About page.
+
+8- Place insta_dark.png over the black "instagram" button spot. When moused over, replace with insta_lit.png, and monitorMain.gif (see 13) with monitorInsta.gif: this button links to Pyro's instagram, https://www.instagram.com/pyrocynical/.
+
+9- Place twt_dark.png over the black "twitter" button spot. When moused over, replace with twt_lit.png, and monitorMain.gif (see 13) with monitorTwitter.gif: this button links to his twitter, https://mobile.twitter.com/pyrocynical.
+
+10- Place YT_dark.png over the black "youtube" button spot. When moused over, replace with YT_lit.png, and monitorMain.gif (see 13) with monitorYT.gif: this button links to his youtube channel, https://www.youtube.com/pyrocynical.
+
+11- Place YT2_dark.png over the black "youtube 2" button spot. When moused over, replace with YT2_lit.png, and monitorMain.gif (see 13) with monitorYT2.gif: this button links to his second youtube channel, https://www.youtube.com/c/PyrocynicalVEVO.
+
+12- Place discord_dark.png over the black "youtube 2" button spot. When moused over, replace with discord_lit.png, and monitorMain.gif (see 13) with monitorDiscord.gif: this button links to his discord server, https://discord.com/invite/pyrocynical.
+
+13- Place monitorMain.gif over the white screen of the right monitor. This screen will be replaced when the user mouses over buttons 5-12; but before being replaced, it will "flash" for a quarter second with monitorGlitch.png, giving off a "channel change" effect. When the user mouses away from any button, it will revert to monitorMain.gif, with the same monitorGlitch "channel change" effect.
+
+14- The frames for the shop items will be placed as such with itemframe_dark.png, the thumbnail picture for the item being placed within the transparent boundary of the png. When moused over, it will replace with itemframe_lit.png. The font for the text is Arial Black. The whole frame is clickable and will link to the item's page. 
+
+If possible, whenever the user mouses over any of the shop items, it will replace monitorMain.gif with a random monitor gif from 5-12, with the "channel change" effect.
+
+As well as all that, Sharn has requested to be able to make her own links for new merch items, so highlight where the frame element's links and text will be replaced for her.
+
+15- Despite the background.png extending farther, the page will end upon the last frame.
